@@ -132,7 +132,7 @@ MinersBuddy is free for every mining student. If it helped you prepare better, c
 [![GitHub](https://img.shields.io/badge/GitHub-MinersBuddy-black?style=for-the-badge&logo=github)](https://github.com/your-username/MinersBuddy)
 [![Website](https://img.shields.io/badge/Website-minersbuddy.vercel.app-orange?style=for-the-badge&logo=vercel)](https://minersbuddy.vercel.app/)
 
-> 📩 For collaborations & inquiries: **mayaagi.dev@gmail.com**
+> 📩 For collaborations & inquiries: **info.minersbuddy@gmail.com**
 
 ---
 
